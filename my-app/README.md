@@ -1,3 +1,61 @@
+This library
+WHY: What is the purpose of this library.
+HOW:
+LIST:
+
+
+WHY: Purpose of this library is to enable me to write a fully functionaly app in hours and days instead of weeks and months.
+     The other purpose is to help me write code fast at work. I will use the same standards and naming conventions to make sure it is compatible with them. I should not change anything here. I will only change in the code when I am making it for my startup. 
+HOW: I will write all the components myself. I will create a library of my own. I will have bare minimum of all things.
+     My library will not have a purpose of library that gives others ability to use and create with it. But it will only enable me to write code. I will have a component of table which will take data in certain way and does it own thing.
+     What is the biggest benefit is that I will be able to use it as a library but I will have all the customisation required.
+     I will have all the access without the fat. If I don't need anything I will not have it in my code. I would customise as I please.
+
+
+LIST:
+
+Form
+pagination
+table
+modal
+slider
+carousel
+skeleton
+login form/ sign up form
+login with google, fb etc
+top navigation
+side navigation
+footer 3 columns
+footer 4 columns
+dropdowns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
